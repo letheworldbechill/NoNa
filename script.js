@@ -1,4 +1,3 @@
-
 const homeBtn = document.getElementById("home-btn");
 const articlesBtn = document.getElementById("articles-btn");
 const journalBtn = document.getElementById("journal-btn");
