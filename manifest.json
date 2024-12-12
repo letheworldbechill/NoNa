@@ -1,7 +1,7 @@
 {
-    "name": "Responsive App",
-    "short_name": "App",
-    "start_url": "/",
+    "name": "NoNa",
+    "short_name": "NA",
+    "start_url": "https://letheworldbechill.github.io/NoNa/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007BFF",
